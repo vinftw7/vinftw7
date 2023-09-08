@@ -1,4 +1,10 @@
-### Hi there 👋
+# Vincent
+
+Previous experience: took some coding classes in Python and Java in the past
+To get better at coding and see if it interests me
+Tennis and Card tricks
+I want to improve at coding, but I'm not sure what project I want to complete specifically.
+
 
 <!--
 **vinftw7/vinftw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
