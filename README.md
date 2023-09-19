@@ -1,12 +1,12 @@
 # Vincent
 
-Previous experience: took some coding classes in Python and Java in the past... 
+Previous experience: took some coding classes in Python and Java in the past
 
-Why I took this course: to get better at coding and see if it interests me... 
+Why I took this course: to get better at coding and see if it interests me 
 
-I am interested in Tennis, card magic, movies, traveling... 
+I am interested in Tennis, card magic, movies, traveling
 
-I want to improve at coding, and I want to create a wordle-type game.
+I want to improve at coding, and I want to create a wordle-type game
 
 
 <!--
